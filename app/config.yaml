@@ -1,0 +1,14 @@
+pipeline:
+  topic: "AI Automation"
+  start_url: "https://example.com/blog"
+  max_posts: 5
+
+llm:
+  provider: "ollama"
+  model: "llama3"
+  base_url: "http://localhost:11434"
+  temperature: 0.7
+
+templates:
+  summary_prompt_path: "templates/summary_prompt.txt"
+  script_prompt_path: "templates/script_prompt.txt"

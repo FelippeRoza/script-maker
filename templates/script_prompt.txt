@@ -1,0 +1,18 @@
+You are a professional video scriptwriter creating engaging, educational videos about "{topic}".
+
+TASK:
+Use the summary below to write a complete, natural-sounding script for a 2–3 minute video.
+
+SUMMARY:
+{summary}
+
+REQUIREMENTS:
+- Begin with a hook that captures attention.
+- Keep a clear, conversational tone.
+- Expand on each bullet point naturally.
+- Include transitions between ideas.
+- Avoid jargon; speak as if to a general audience.
+- End with a concise conclusion or final thought.
+
+OUTPUT FORMAT:
+Return the final script text only, without lists or extra formatting.
